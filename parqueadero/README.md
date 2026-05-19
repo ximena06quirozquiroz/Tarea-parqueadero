@@ -1,4 +1,4 @@
-# AutoParking — Sistema de Gestión de Parqueadero Multi-Lenguaje (Edición 27 Celdas)
+ Sistema de Gestión de Parqueadero 
 
 Este proyecto es un sistema de parqueadero distribuido y optimizado que utiliza **C++** para la lógica de bajo nivel, sockets y simulación, y **Python** para la interfaz gráfica de usuario en tiempo real.
 
